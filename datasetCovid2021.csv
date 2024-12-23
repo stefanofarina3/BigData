@@ -1,0 +1,810 @@
+date,county,state,fips,cases,deaths
+2021-07-12,Howard,Maryland,24027,19387,255
+2021-07-12,Kent,Maryland,24029,1364,51
+2021-07-12,Montgomery,Maryland,24031,71385,1627
+2021-07-12,Prince George's,Maryland,24033,85758,1598
+2021-07-12,Queen Anne's,Maryland,24035,3015,52
+2021-07-12,Somerset,Maryland,24039,2626,41
+2021-07-12,St. Mary's,Maryland,24037,6083,132
+2021-07-12,Talbot,Maryland,24041,2187,44
+2021-07-12,Unknown,Maryland,,0,15
+2021-07-12,Washington,Maryland,24043,14690,333
+2021-07-12,Wicomico,Maryland,24045,7749,174
+2021-07-12,Worcester,Maryland,24047,3711,106
+2021-07-12,Barnstable,Massachusetts,25001,13991,471
+2021-07-12,Berkshire,Massachusetts,25003,6582,288
+2021-07-12,Bristol,Massachusetts,25005,67028,1749
+2021-07-12,Dukes,Massachusetts,25007,1419,0
+2021-07-12,Essex,Massachusetts,25009,98097,2406
+2021-07-12,Franklin,Massachusetts,25011,2587,113
+2021-07-12,Hampden,Massachusetts,25013,52528,1538
+2021-07-12,Hampshire,Massachusetts,25015,9185,300
+2021-07-12,Middlesex,Massachusetts,25017,135609,3783
+2021-07-12,Nantucket,Massachusetts,25019,1521,0
+2021-07-12,Norfolk,Massachusetts,25021,55126,1806
+2021-07-12,Plymouth,Massachusetts,25023,49373,1446
+2021-07-12,Suffolk,Massachusetts,25025,93291,1851
+2021-07-12,Unknown,Massachusetts,,47252,12
+2021-07-12,Worcester,Massachusetts,25027,77573,2249
+2021-07-12,Alcona,Michigan,26001,741,33
+2021-07-12,Alger,Michigan,26003,670,7
+2021-07-12,Allegan,Michigan,26005,11209,162
+2021-07-12,Alpena,Michigan,26007,2273,64
+2021-07-12,Antrim,Michigan,26009,1639,30
+2021-07-12,Arenac,Michigan,26011,1212,29
+2021-07-12,Baraga,Michigan,26013,994,40
+2021-07-12,Barry,Michigan,26015,5973,69
+2021-07-12,Bay,Michigan,26017,11272,354
+2021-07-12,Benzie,Michigan,26019,1283,36
+2021-07-12,Berrien,Michigan,26021,15632,294
+2021-07-12,Branch,Michigan,26023,5779,121
+2021-07-12,Calhoun,Michigan,26025,14601,320
+2021-07-12,Cass,Michigan,26027,5508,78
+2021-07-12,Charlevoix,Michigan,26029,1685,22
+2021-07-12,Cheboygan,Michigan,26031,1931,46
+2021-07-12,Chippewa,Michigan,26033,5643,50
+2021-07-12,Clare,Michigan,26035,2485,86
+2021-07-12,Clinton,Michigan,26037,7665,93
+2021-07-12,Crawford,Michigan,26039,996,14
+2021-07-12,Delta,Michigan,26041,4057,95
+2021-07-12,Dickinson,Michigan,26043,2757,74
+2021-07-12,Eaton,Michigan,26045,10167,212
+2021-07-12,Emmet,Michigan,26047,2387,43
+2021-07-12,Genesee,Michigan,26049,41795,973
+2021-07-12,Gladwin,Michigan,26051,2307,61
+2021-07-12,Gogebic,Michigan,26053,1416,52
+2021-07-12,Grand Traverse,Michigan,26055,6489,100
+2021-07-12,Gratiot,Michigan,26057,6988,125
+2021-07-12,Hillsdale,Michigan,26059,4406,94
+2021-07-12,Houghton,Michigan,26061,3143,43
+2021-07-12,Huron,Michigan,26063,4096,82
+2021-07-12,Ingham,Michigan,26065,24943,393
+2021-07-12,Ionia,Michigan,26067,9359,85
+2021-07-12,Iosco,Michigan,26069,2008,75
+2021-07-12,Iron,Michigan,26071,1058,53
+2021-07-12,Isabella,Michigan,26073,6346,100
+2021-07-12,Jackson,Michigan,26075,21088,324
+2021-07-12,Kalamazoo,Michigan,26077,23233,402
+2021-07-12,Kalkaska,Michigan,26079,1145,27
+2021-07-12,Kent,Michigan,26081,73913,862
+2021-07-12,Keweenaw,Michigan,26083,174,2
+2021-07-12,Lake,Michigan,26085,639,16
+2021-07-12,Lapeer,Michigan,26087,9778,215
+2021-07-12,Leelanau,Michigan,26089,1245,19
+2021-07-12,Lenawee,Michigan,26091,10863,178
+2021-07-12,Livingston,Michigan,26093,16834,198
+2021-07-12,Luce,Michigan,26095,1338,6
+2021-07-12,Mackinac,Michigan,26097,715,3
+2021-07-12,Macomb,Michigan,26099,100779,2500
+2021-07-12,Manistee,Michigan,26101,1981,24
+2021-07-12,Marquette,Michigan,26103,5943,65
+2021-07-12,Mason,Michigan,26105,2141,37
+2021-07-12,Mecosta,Michigan,26107,3221,37
+2021-07-12,Menominee,Michigan,26109,2133,44
+2021-07-12,Midland,Michigan,26111,7596,94
+2021-07-12,Missaukee,Michigan,26113,1517,27
+2021-07-12,Monroe,Michigan,26115,15449,264
+2021-07-12,Montcalm,Michigan,26117,8215,120
+2021-07-12,Montmorency,Michigan,26119,618,20
+2021-07-12,Muskegon,Michigan,26121,18459,381
+2021-07-12,Newaygo,Michigan,26123,4907,69
+2021-07-12,Oakland,Michigan,26125,118968,2455
+2021-07-12,Oceana,Michigan,26127,2777,60
+2021-07-12,Ogemaw,Michigan,26129,1748,43
+2021-07-12,Ontonagon,Michigan,26131,483,21
+2021-07-12,Osceola,Michigan,26133,1966,31
+2021-07-12,Oscoda,Michigan,26135,692,31
+2021-07-12,Otsego,Michigan,26137,2369,41
+2021-07-12,Ottawa,Michigan,26139,32985,441
+2021-07-12,Presque Isle,Michigan,26141,1057,34
+2021-07-12,Roscommon,Michigan,26143,1904,55
+2021-07-12,Saginaw,Michigan,26145,22548,637
+2021-07-12,Sanilac,Michigan,26151,4261,125
+2021-07-12,Schoolcraft,Michigan,26153,438,5
+2021-07-12,Shiawassee,Michigan,26155,6449,109
+2021-07-12,St. Clair,Michigan,26147,18539,451
+2021-07-12,St. Joseph,Michigan,26149,6268,101
+2021-07-12,Tuscola,Michigan,26157,5674,174
+2021-07-12,Unknown,Michigan,,743,15
+2021-07-12,Van Buren,Michigan,26159,7156,131
+2021-07-12,Washtenaw,Michigan,26161,27197,311
+2021-07-12,Wayne,Michigan,26163,166400,5184
+2021-07-12,Wexford,Michigan,26165,2904,48
+2021-07-12,Aitkin,Minnesota,27001,1389,37
+2021-07-12,Anoka,Minnesota,27003,42949,462
+2021-07-12,Becker,Minnesota,27005,3880,56
+2021-07-12,Beltrami,Minnesota,27007,4086,63
+2021-07-12,Benton,Minnesota,27009,5836,98
+2021-07-12,Big Stone,Minnesota,27011,605,4
+2021-07-12,Blue Earth,Minnesota,27013,7651,44
+2021-07-12,Brown,Minnesota,27015,3086,40
+2021-07-12,Carlton,Minnesota,27017,3549,57
+2021-07-12,Carver,Minnesota,27019,10698,49
+2021-07-12,Cass,Minnesota,27021,2873,32
+2021-07-12,Chippewa,Minnesota,27023,1540,38
+2021-07-12,Chisago,Minnesota,27025,6232,52
+2021-07-12,Clay,Minnesota,27027,8277,92
+2021-07-12,Clearwater,Minnesota,27029,891,17
+2021-07-12,Cook,Minnesota,27031,173,0
+2021-07-12,Cottonwood,Minnesota,27033,1675,24
+2021-07-12,Crow Wing,Minnesota,27035,6846,98
+2021-07-12,Dakota,Minnesota,27037,47002,475
+2021-07-12,Dodge,Minnesota,27039,1878,3
+2021-07-12,Douglas,Minnesota,27041,4764,81
+2021-07-12,Faribault,Minnesota,27043,1564,19
+2021-07-12,Fillmore,Minnesota,27045,1583,10
+2021-07-12,Freeborn,Minnesota,27047,3485,34
+2021-07-12,Goodhue,Minnesota,27049,4844,74
+2021-07-12,Grant,Minnesota,27051,594,8
+2021-07-12,Hennepin,Minnesota,27053,125490,1792
+2021-07-12,Houston,Minnesota,27055,1751,16
+2021-07-12,Hubbard,Minnesota,27057,1974,41
+2021-07-12,Isanti,Minnesota,27059,4420,65
+2021-07-12,Itasca,Minnesota,27061,4618,66
+2021-07-12,Jackson,Minnesota,27063,1229,12
+2021-07-12,Kanabec,Minnesota,27065,1469,28
+2021-07-12,Kandiyohi,Minnesota,27067,6692,85
+2021-07-12,Kittson,Minnesota,27069,490,22
+2021-07-12,Koochiching,Minnesota,27071,958,19
+2021-07-12,Lac qui Parle,Minnesota,27073,760,22
+2021-07-12,Lake,Minnesota,27075,834,20
+2021-07-12,Lake of the Woods,Minnesota,27077,345,4
+2021-07-12,Le Sueur,Minnesota,27079,2984,27
+2021-07-12,Lincoln,Minnesota,27081,584,3
+2021-07-12,Lyon,Minnesota,27083,3646,54
+2021-07-12,Mahnomen,Minnesota,27087,565,9
+2021-07-12,Marshall,Minnesota,27089,888,17
+2021-07-12,Martin,Minnesota,27091,2355,33
+2021-07-12,McLeod,Minnesota,27085,4327,61
+2021-07-12,Meeker,Minnesota,27093,2643,44
+2021-07-12,Mille Lacs,Minnesota,27095,3126,55
+2021-07-12,Morrison,Minnesota,27097,4259,62
+2021-07-12,Mower,Minnesota,27099,4737,33
+2021-07-12,Murray,Minnesota,27101,1071,10
+2021-07-12,Nicollet,Minnesota,27103,3321,45
+2021-07-12,Nobles,Minnesota,27105,4085,50
+2021-07-12,Norman,Minnesota,27107,548,9
+2021-07-12,Olmsted,Minnesota,27109,13449,102
+2021-07-12,Otter Tail,Minnesota,27111,5879,87
+2021-07-12,Pennington,Minnesota,27113,1538,20
+2021-07-12,Pine,Minnesota,27115,3356,23
+2021-07-12,Pipestone,Minnesota,27117,1169,26
+2021-07-12,Polk,Minnesota,27119,3895,72
+2021-07-12,Pope,Minnesota,27121,1129,6
+2021-07-12,Ramsey,Minnesota,27123,52686,908
+2021-07-12,Red Lake,Minnesota,27125,403,7
+2021-07-12,Redwood,Minnesota,27127,1768,41
+2021-07-12,Renville,Minnesota,27129,1827,46
+2021-07-12,Rice,Minnesota,27131,8229,111
+2021-07-12,Rock,Minnesota,27133,1286,19
+2021-07-12,Roseau,Minnesota,27135,2113,21
+2021-07-12,Scott,Minnesota,27139,17589,139
+2021-07-12,Sherburne,Minnesota,27141,12055,95
+2021-07-12,Sibley,Minnesota,27143,1469,10
+2021-07-12,St. Louis,Minnesota,27137,18177,318
+2021-07-12,Stearns,Minnesota,27145,22603,227
+2021-07-12,Steele,Minnesota,27147,3997,19
+2021-07-12,Stevens,Minnesota,27149,926,11
+2021-07-12,Swift,Minnesota,27151,1072,18
+2021-07-12,Todd,Minnesota,27153,2867,33
+2021-07-12,Traverse,Minnesota,27155,378,5
+2021-07-12,Unknown,Minnesota,,569,93
+2021-07-12,Wabasha,Minnesota,27157,2081,3
+2021-07-12,Wadena,Minnesota,27159,1642,23
+2021-07-12,Waseca,Minnesota,27161,2394,23
+2021-07-12,Washington,Minnesota,27163,27509,295
+2021-07-12,Watonwan,Minnesota,27165,1356,9
+2021-07-12,Wilkin,Minnesota,27167,835,13
+2021-07-12,Winona,Minnesota,27169,4629,52
+2021-07-12,Wright,Minnesota,27171,16432,151
+2021-07-12,Yellow Medicine,Minnesota,27173,1151,20
+2021-07-12,Adams,Mississippi,28001,3165,86
+2021-07-12,Alcorn,Mississippi,28003,3376,74
+2021-07-12,Amite,Mississippi,28005,1289,43
+2021-07-12,Attala,Mississippi,28007,2164,73
+2021-07-12,Benton,Mississippi,28009,1029,25
+2021-07-12,Bolivar,Mississippi,28011,4863,134
+2021-07-12,Calhoun,Mississippi,28013,1755,32
+2021-07-12,Carroll,Mississippi,28015,1230,30
+2021-07-12,Chickasaw,Mississippi,28017,2134,60
+2021-07-12,Choctaw,Mississippi,28019,802,19
+2021-07-12,Claiborne,Mississippi,28021,1035,31
+2021-07-12,Clarke,Mississippi,28023,1794,80
+2021-07-12,Clay,Mississippi,28025,1897,54
+2021-07-12,Coahoma,Mississippi,28027,3037,84
+2021-07-12,Copiah,Mississippi,28029,3048,66
+2021-07-12,Covington,Mississippi,28031,2720,83
+2021-07-12,DeSoto,Mississippi,28033,22552,274
+2021-07-12,Forrest,Mississippi,28035,7974,156
+2021-07-12,Franklin,Mississippi,28037,853,23
+2021-07-12,George,Mississippi,28039,2550,51
+2021-07-12,Greene,Mississippi,28041,1327,34
+2021-07-12,Grenada,Mississippi,28043,2642,88
+2021-07-12,Hancock,Mississippi,28045,3939,88
+2021-07-12,Harrison,Mississippi,28047,18823,318
+2021-07-12,Hinds,Mississippi,28049,21573,428
+2021-07-12,Holmes,Mississippi,28051,1923,74
+2021-07-12,Humphreys,Mississippi,28053,975,33
+2021-07-12,Issaquena,Mississippi,28055,169,6
+2021-07-12,Itawamba,Mississippi,28057,3064,80
+2021-07-12,Jackson,Mississippi,28059,13922,251
+2021-07-12,Jasper,Mississippi,28061,2231,48
+2021-07-12,Jefferson,Mississippi,28063,666,28
+2021-07-12,Jefferson Davis,Mississippi,28065,1102,34
+2021-07-12,Jones,Mississippi,28067,8529,169
+2021-07-12,Kemper,Mississippi,28069,976,29
+2021-07-12,Lafayette,Mississippi,28071,6361,124
+2021-07-12,Lamar,Mississippi,28073,6466,88
+2021-07-12,Lauderdale,Mississippi,28075,7301,243
+2021-07-12,Lawrence,Mississippi,28077,1334,25
+2021-07-12,Leake,Mississippi,28079,2749,74
+2021-07-12,Lee,Mississippi,28081,10205,176
+2021-07-12,Leflore,Mississippi,28083,3531,125
+2021-07-12,Lincoln,Mississippi,28085,4042,113
+2021-07-12,Lowndes,Mississippi,28087,6604,150
+2021-07-12,Madison,Mississippi,28089,10431,227
+2021-07-12,Marion,Mississippi,28091,2735,80
+2021-07-12,Marshall,Mississippi,28093,4611,105
+2021-07-12,Monroe,Mississippi,28095,4206,136
+2021-07-12,Montgomery,Mississippi,28097,1296,44
+2021-07-12,Neshoba,Mississippi,28099,4120,180
+2021-07-12,Newton,Mississippi,28101,2516,64
+2021-07-12,Noxubee,Mississippi,28103,1290,35
+2021-07-12,Oktibbeha,Mississippi,28105,4697,98
+2021-07-12,Panola,Mississippi,28107,4683,112
+2021-07-12,Pearl River,Mississippi,28109,4720,148
+2021-07-12,Perry,Mississippi,28111,1293,38
+2021-07-12,Pike,Mississippi,28113,3406,111
+2021-07-12,Pontotoc,Mississippi,28115,4326,73
+2021-07-12,Prentiss,Mississippi,28117,2903,61
+2021-07-12,Quitman,Mississippi,28119,830,19
+2021-07-12,Rankin,Mississippi,28121,14287,284
+2021-07-12,Scott,Mississippi,28123,3232,74
+2021-07-12,Sharkey,Mississippi,28125,511,18
+2021-07-12,Simpson,Mississippi,28127,3058,89
+2021-07-12,Smith,Mississippi,28129,1698,34
+2021-07-12,Stone,Mississippi,28131,1960,35
+2021-07-12,Sunflower,Mississippi,28133,3404,93
+2021-07-12,Tallahatchie,Mississippi,28135,1806,42
+2021-07-12,Tate,Mississippi,28137,3445,88
+2021-07-12,Tippah,Mississippi,28139,2946,68
+2021-07-12,Tishomingo,Mississippi,28141,2338,69
+2021-07-12,Tunica,Mississippi,28143,1093,27
+2021-07-12,Union,Mississippi,28145,4205,79
+2021-07-12,Walthall,Mississippi,28147,1368,47
+2021-07-12,Warren,Mississippi,28149,4506,121
+2021-07-12,Washington,Mississippi,28151,5463,139
+2021-07-12,Wayne,Mississippi,28153,2666,42
+2021-07-12,Webster,Mississippi,28155,1156,32
+2021-07-12,Wilkinson,Mississippi,28157,705,32
+2021-07-12,Winston,Mississippi,28159,2320,82
+2021-07-12,Yalobusha,Mississippi,28161,1685,40
+2021-07-12,Yazoo,Mississippi,28163,3217,71
+2021-07-12,Adair,Missouri,29001,2592,20
+2021-07-12,Andrew,Missouri,29003,2053,22
+2021-07-12,Atchison,Missouri,29005,465,6
+2021-07-12,Audrain,Missouri,29007,2848,58
+2021-07-12,Barry,Missouri,29009,3187,47
+2021-07-12,Barton,Missouri,29011,1277,16
+2021-07-12,Bates,Missouri,29013,1380,32
+2021-07-12,Benton,Missouri,29015,1776,35
+2021-07-12,Bollinger,Missouri,29017,1167,14
+2021-07-12,Boone,Missouri,29019,19514,118
+2021-07-12,Buchanan,Missouri,29021,11304,186
+2021-07-12,Butler,Missouri,29023,4372,51
+2021-07-12,Caldwell,Missouri,29025,892,15
+2021-07-12,Callaway,Missouri,29027,5265,51
+2021-07-12,Camden,Missouri,29029,4615,94
+2021-07-12,Cape Girardeau,Missouri,29031,9616,139
+2021-07-12,Carroll,Missouri,29033,1085,24
+2021-07-12,Carter,Missouri,29035,560,11
+2021-07-12,Cass,Missouri,29037,9771,117
+2021-07-12,Cedar,Missouri,29039,1206,21
+2021-07-12,Chariton,Missouri,29041,762,8
+2021-07-12,Christian,Missouri,29043,10185,98
+2021-07-12,Clark,Missouri,29045,719,8
+2021-07-12,Clay,Missouri,29047,10678,175
+2021-07-12,Clinton,Missouri,29049,2075,65
+2021-07-12,Cole,Missouri,29051,9614,130
+2021-07-12,Cooper,Missouri,29053,1989,27
+2021-07-12,Crawford,Missouri,29055,2705,40
+2021-07-12,Dade,Missouri,29057,673,31
+2021-07-12,Dallas,Missouri,29059,1623,28
+2021-07-12,Daviess,Missouri,29061,768,11
+2021-07-12,DeKalb,Missouri,29063,1166,32
+2021-07-12,Dent,Missouri,29065,1089,19
+2021-07-12,Douglas,Missouri,29067,1087,30
+2021-07-12,Dunklin,Missouri,29069,3147,50
+2021-07-12,Franklin,Missouri,29071,10970,186
+2021-07-12,Gasconade,Missouri,29073,1601,47
+2021-07-12,Gentry,Missouri,29075,894,20
+2021-07-12,Greene,Missouri,29077,34225,496
+2021-07-12,Grundy,Missouri,29079,1155,36
+2021-07-12,Harrison,Missouri,29081,913,14
+2021-07-12,Henry,Missouri,29083,2118,40
+2021-07-12,Hickory,Missouri,29085,739,15
+2021-07-12,Holt,Missouri,29087,475,14
+2021-07-12,Howard,Missouri,29089,1100,8
+2021-07-12,Howell,Missouri,29091,3800,47
+2021-07-12,Iron,Missouri,29093,930,7
+2021-07-12,Jackson,Missouri,29095,40444,481
+2021-07-12,Jasper,Missouri,29097,10595,136
+2021-07-12,Jefferson,Missouri,29099,24049,255
+2021-07-12,Johnson,Missouri,29101,4963,59
+2021-07-12,Joplin,Missouri,,7007,113
+2021-07-12,Kansas City,Missouri,,46215,603
+2021-07-12,Knox,Missouri,29103,390,3
+2021-07-12,Laclede,Missouri,29105,3893,76
+2021-07-12,Lafayette,Missouri,29107,3262,57
+2021-07-12,Lawrence,Missouri,29109,3903,89
+2021-07-12,Lewis,Missouri,29111,1088,20
+2021-07-12,Lincoln,Missouri,29113,6432,52
+2021-07-12,Linn,Missouri,29115,1619,18
+2021-07-12,Livingston,Missouri,29117,2189,47
+2021-07-12,Macon,Missouri,29121,1672,18
+2021-07-12,Madison,Missouri,29123,1698,16
+2021-07-12,Maries,Missouri,29125,668,8
+2021-07-12,Marion,Missouri,29127,3730,53
+2021-07-12,McDonald,Missouri,29119,2937,38
+2021-07-12,Mercer,Missouri,29129,314,2
+2021-07-12,Miller,Missouri,29131,2807,57
+2021-07-12,Mississippi,Missouri,29133,1512,28
+2021-07-12,Moniteau,Missouri,29135,1882,33
+2021-07-12,Monroe,Missouri,29137,1035,12
+2021-07-12,Montgomery,Missouri,29139,1099,13
+2021-07-12,Morgan,Missouri,29141,1883,44
+2021-07-12,New Madrid,Missouri,29143,2166,47
+2021-07-12,Newton,Missouri,29145,6102,80
+2021-07-12,Nodaway,Missouri,29147,2773,25
+2021-07-12,Oregon,Missouri,29149,871,5
+2021-07-12,Osage,Missouri,29151,1680,16
+2021-07-12,Ozark,Missouri,29153,704,21
+2021-07-12,Pemiscot,Missouri,29155,1634,39
+2021-07-12,Perry,Missouri,29157,2291,30
+2021-07-12,Pettis,Missouri,29159,5349,77
+2021-07-12,Phelps,Missouri,29161,4167,135
+2021-07-12,Pike,Missouri,29163,1847,26
+2021-07-12,Platte,Missouri,29165,4362,50
+2021-07-12,Polk,Missouri,29167,4016,42
+2021-07-12,Pulaski,Missouri,29169,3771,56
+2021-07-12,Putnam,Missouri,29171,488,4
+2021-07-12,Ralls,Missouri,29173,1100,13
+2021-07-12,Randolph,Missouri,29175,2748,31
+2021-07-12,Ray,Missouri,29177,2078,29
+2021-07-12,Reynolds,Missouri,29179,497,4
+2021-07-12,Ripley,Missouri,29181,1126,17
+2021-07-12,Saline,Missouri,29195,2942,39
+2021-07-12,Schuyler,Missouri,29197,351,7
+2021-07-12,Scotland,Missouri,29199,306,4
+2021-07-12,Scott,Missouri,29201,4767,88
+2021-07-12,Shannon,Missouri,29203,639,12
+2021-07-12,Shelby,Missouri,29205,704,7
+2021-07-12,St. Charles,Missouri,29183,48855,593
+2021-07-12,St. Clair,Missouri,29185,833,8
+2021-07-12,St. Francois,Missouri,29187,9037,116
+2021-07-12,St. Louis,Missouri,29189,103052,2277
+2021-07-12,St. Louis city,Missouri,29510,25779,534
+2021-07-12,Ste. Genevieve,Missouri,29186,1852,17
+2021-07-12,Stoddard,Missouri,29207,2591,42
+2021-07-12,Stone,Missouri,29209,2822,49
+2021-07-12,Sullivan,Missouri,29211,878,14
+2021-07-12,Taney,Missouri,29213,6499,104
+2021-07-12,Texas,Missouri,29215,2098,23
+2021-07-12,Vernon,Missouri,29217,2073,46
+2021-07-12,Warren,Missouri,29219,3329,39
+2021-07-12,Washington,Missouri,29221,2810,52
+2021-07-12,Wayne,Missouri,29223,1055,14
+2021-07-12,Webster,Missouri,29225,4331,59
+2021-07-12,Worth,Missouri,29227,191,2
+2021-07-12,Wright,Missouri,29229,1840,34
+2021-07-12,Beaverhead,Montana,30001,929,12
+2021-07-12,Big Horn,Montana,30003,2594,76
+2021-07-12,Blaine,Montana,30005,828,24
+2021-07-12,Broadwater,Montana,30007,527,5
+2021-07-12,Carbon,Montana,30009,919,17
+2021-07-12,Carter,Montana,30011,151,5
+2021-07-12,Cascade,Montana,30013,9582,188
+2021-07-12,Chouteau,Montana,30015,516,7
+2021-07-12,Custer,Montana,30017,1208,18
+2021-07-12,Daniels,Montana,30019,197,8
+2021-07-12,Dawson,Montana,30021,1110,29
+2021-07-12,Deer Lodge,Montana,30023,1130,16
+2021-07-12,Fallon,Montana,30025,291,2
+2021-07-12,Fergus,Montana,30027,1132,31
+2021-07-12,Flathead,Montana,30029,12577,103
+2021-07-12,Gallatin,Montana,30031,15049,63
+2021-07-12,Garfield,Montana,30033,80,2
+2021-07-12,Glacier,Montana,30035,1550,44
+2021-07-12,Golden Valley,Montana,30037,57,2
+2021-07-12,Granite,Montana,30039,204,2
+2021-07-12,Hill,Montana,30041,2043,46
+2021-07-12,Jefferson,Montana,30043,1118,8
+2021-07-12,Judith Basin,Montana,30045,92,1
+2021-07-12,Lake,Montana,30047,2141,37
+2021-07-12,Lewis and Clark,Montana,30049,7077,91
+2021-07-12,Liberty,Montana,30051,120,1
+2021-07-12,Lincoln,Montana,30053,1655,18
+2021-07-12,Madison,Montana,30057,797,8
+2021-07-12,McCone,Montana,30055,183,1
+2021-07-12,Meagher,Montana,30059,152,7
+2021-07-12,Mineral,Montana,30061,295,3
+2021-07-12,Missoula,Montana,30063,9424,96
+2021-07-12,Musselshell,Montana,30065,377,14
+2021-07-12,Park,Montana,30067,1467,20
+2021-07-12,Petroleum,Montana,30069,12,1
+2021-07-12,Phillips,Montana,30071,529,16
+2021-07-12,Pondera,Montana,30073,508,3
+2021-07-12,Powder River,Montana,30075,157,8
+2021-07-12,Powell,Montana,30077,943,11
+2021-07-12,Prairie,Montana,30079,141,2
+2021-07-12,Ravalli,Montana,30081,3278,51
+2021-07-12,Richland,Montana,30083,1255,18
+2021-07-12,Roosevelt,Montana,30085,1670,55
+2021-07-12,Rosebud,Montana,30087,1234,50
+2021-07-12,Sanders,Montana,30089,682,15
+2021-07-12,Sheridan,Montana,30091,424,5
+2021-07-12,Silver Bow,Montana,30093,4169,86
+2021-07-12,Stillwater,Montana,30095,757,14
+2021-07-12,Sweet Grass,Montana,30097,404,7
+2021-07-12,Teton,Montana,30099,507,6
+2021-07-12,Toole,Montana,30101,731,11
+2021-07-12,Treasure,Montana,30103,55,1
+2021-07-12,Valley,Montana,30105,902,18
+2021-07-12,Wheatland,Montana,30107,183,8
+2021-07-12,Wibaux,Montana,30109,122,6
+2021-07-12,Yellowstone,Montana,30111,18198,277
+2021-07-12,Adams,Nebraska,31001,3182,54
+2021-07-12,Antelope,Nebraska,31003,618,7
+2021-07-12,Arthur,Nebraska,31005,24,1
+2021-07-12,Banner,Nebraska,31007,30,0
+2021-07-12,Blaine,Nebraska,31009,28,0
+2021-07-12,Boone,Nebraska,31011,585,4
+2021-07-12,Box Butte,Nebraska,31013,967,11
+2021-07-12,Boyd,Nebraska,31015,204,3
+2021-07-12,Brown,Nebraska,31017,282,2
+2021-07-12,Buffalo,Nebraska,31019,5524,57
+2021-07-12,Burt,Nebraska,31021,671,12
+2021-07-12,Butler,Nebraska,31023,861,12
+2021-07-12,Cass,Nebraska,31025,2677,16
+2021-07-12,Cedar,Nebraska,31027,955,11
+2021-07-12,Chase,Nebraska,31029,472,5
+2021-07-12,Cherry,Nebraska,31031,437,7
+2021-07-12,Cheyenne,Nebraska,31033,961,19
+2021-07-12,Clay,Nebraska,31035,782,17
+2021-07-12,Colfax,Nebraska,31037,1594,21
+2021-07-12,Cuming,Nebraska,31039,1056,15
+2021-07-12,Custer,Nebraska,31041,907,19
+2021-07-12,Dakota,Nebraska,31043,4155,82
+2021-07-12,Dawes,Nebraska,31045,773,20
+2021-07-12,Dawson,Nebraska,31047,2853,31
+2021-07-12,Deuel,Nebraska,31049,117,2
+2021-07-12,Dixon,Nebraska,31051,696,9
+2021-07-12,Dodge,Nebraska,31053,4993,80
+2021-07-12,Douglas,Nebraska,31055,72494,734
+2021-07-12,Dundy,Nebraska,31057,184,4
+2021-07-12,Fillmore,Nebraska,31059,507,13
+2021-07-12,Franklin,Nebraska,31061,239,4
+2021-07-12,Frontier,Nebraska,31063,149,1
+2021-07-12,Furnas,Nebraska,31065,470,5
+2021-07-12,Gage,Nebraska,31067,2156,20
+2021-07-12,Garden,Nebraska,31069,118,1
+2021-07-12,Garfield,Nebraska,31071,156,1
+2021-07-12,Gosper,Nebraska,31073,179,5
+2021-07-12,Grant,Nebraska,31075,36,4
+2021-07-12,Greeley,Nebraska,31077,226,1
+2021-07-12,Hall,Nebraska,31079,7893,120
+2021-07-12,Hamilton,Nebraska,31081,978,18
+2021-07-12,Harlan,Nebraska,31083,228,0
+2021-07-12,Hayes,Nebraska,31085,57,0
+2021-07-12,Hitchcock,Nebraska,31087,259,5
+2021-07-12,Holt,Nebraska,31089,910,16
+2021-07-12,Hooker,Nebraska,31091,47,3
+2021-07-12,Howard,Nebraska,31093,594,10
+2021-07-12,Jefferson,Nebraska,31095,664,3
+2021-07-12,Johnson,Nebraska,31097,656,10
+2021-07-12,Kearney,Nebraska,31099,617,5
+2021-07-12,Keith,Nebraska,31101,706,10
+2021-07-12,Keya Paha,Nebraska,31103,56,0
+2021-07-12,Kimball,Nebraska,31105,442,7
+2021-07-12,Knox,Nebraska,31107,1158,12
+2021-07-12,Lancaster,Nebraska,31109,31681,239
+2021-07-12,Lincoln,Nebraska,31111,4157,81
+2021-07-12,Logan,Nebraska,31113,81,0
+2021-07-12,Loup,Nebraska,31115,34,0
+2021-07-12,Madison,Nebraska,31119,4303,44
+2021-07-12,McPherson,Nebraska,31117,28,1
+2021-07-12,Merrick,Nebraska,31121,780,15
+2021-07-12,Morrill,Nebraska,31123,512,15
+2021-07-12,Nance,Nebraska,31125,414,10
+2021-07-12,Nemaha,Nebraska,31127,804,13
+2021-07-12,Nuckolls,Nebraska,31129,548,12
+2021-07-12,Otoe,Nebraska,31131,1479,13
+2021-07-12,Pawnee,Nebraska,31133,241,4
+2021-07-12,Perkins,Nebraska,31135,278,11
+2021-07-12,Phelps,Nebraska,31137,1011,10
+2021-07-12,Pierce,Nebraska,31139,732,20
+2021-07-12,Platte,Nebraska,31141,4150,50
+2021-07-12,Polk,Nebraska,31143,590,18
+2021-07-12,Red Willow,Nebraska,31145,1272,15
+2021-07-12,Richardson,Nebraska,31147,816,24
+2021-07-12,Rock,Nebraska,31149,154,2
+2021-07-12,Saline,Nebraska,31151,2041,3
+2021-07-12,Sarpy,Nebraska,31153,22472,132
+2021-07-12,Saunders,Nebraska,31155,2549,20
+2021-07-12,Scotts Bluff,Nebraska,31157,4707,96
+2021-07-12,Seward,Nebraska,31159,2040,34
+2021-07-12,Sheridan,Nebraska,31161,540,21
+2021-07-12,Sherman,Nebraska,31163,213,4
+2021-07-12,Sioux,Nebraska,31165,31,1
+2021-07-12,Stanton,Nebraska,31167,372,11
+2021-07-12,Thayer,Nebraska,31169,491,7
+2021-07-12,Thomas,Nebraska,31171,55,1
+2021-07-12,Thurston,Nebraska,31173,1190,11
+2021-07-12,Valley,Nebraska,31175,344,2
+2021-07-12,Washington,Nebraska,31177,2207,27
+2021-07-12,Wayne,Nebraska,31179,1171,7
+2021-07-12,Webster,Nebraska,31181,419,8
+2021-07-12,Wheeler,Nebraska,31183,39,0
+2021-07-12,York,Nebraska,31185,1842,13
+2021-07-12,Carson City,Nevada,32510,6643,124
+2021-07-12,Churchill,Nevada,32001,2144,49
+2021-07-12,Clark,Nevada,32003,265462,4538
+2021-07-12,Douglas,Nevada,32005,3030,37
+2021-07-12,Elko,Nevada,32007,5227,58
+2021-07-12,Esmeralda,Nevada,32009,38,0
+2021-07-12,Eureka,Nevada,32011,57,0
+2021-07-12,Humboldt,Nevada,32013,1229,14
+2021-07-12,Lander,Nevada,32015,482,9
+2021-07-12,Lincoln,Nevada,32017,377,3
+2021-07-12,Lyon,Nevada,32019,3390,65
+2021-07-12,Mineral,Nevada,32021,309,8
+2021-07-12,Nye,Nevada,32023,3057,108
+2021-07-12,Pershing,Nevada,32027,971,20
+2021-07-12,Storey,Nevada,32029,121,3
+2021-07-12,Washoe,Nevada,32031,46567,688
+2021-07-12,White Pine,Nevada,32033,641,6
+2021-07-12,Belknap,New Hampshire,33001,4198,100
+2021-07-12,Carroll,New Hampshire,33003,2503,13
+2021-07-12,Cheshire,New Hampshire,33005,3915,35
+2021-07-12,Coos,New Hampshire,33007,2091,43
+2021-07-12,Grafton,New Hampshire,33009,4096,28
+2021-07-12,Hillsborough,New Hampshire,33011,36483,647
+2021-07-12,Merrimack,New Hampshire,33013,9709,116
+2021-07-12,Rockingham,New Hampshire,33015,24465,267
+2021-07-12,Strafford,New Hampshire,33017,10107,99
+2021-07-12,Sullivan,New Hampshire,33019,1891,26
+2021-07-12,Unknown,New Hampshire,,312,1
+2021-07-12,Atlantic,New Jersey,34001,31741,696
+2021-07-12,Bergen,New Jersey,34003,105249,2892
+2021-07-12,Burlington,New Jersey,34005,44547,878
+2021-07-12,Camden,New Jersey,34007,56147,1343
+2021-07-12,Cape May,New Jersey,34009,9317,208
+2021-07-12,Cumberland,New Jersey,34011,17268,442
+2021-07-12,Essex,New Jersey,34013,94687,3029
+2021-07-12,Gloucester,New Jersey,34015,30785,646
+2021-07-12,Hudson,New Jersey,34017,88577,2307
+2021-07-12,Hunterdon,New Jersey,34019,9930,176
+2021-07-12,Mercer,New Jersey,34021,34249,961
+2021-07-12,Middlesex,New Jersey,34023,92846,2370
+2021-07-12,Monmouth,New Jersey,34025,76551,1641
+2021-07-12,Morris,New Jersey,34027,50518,1241
+2021-07-12,Ocean,New Jersey,34029,76800,2175
+2021-07-12,Passaic,New Jersey,34031,73572,1941
+2021-07-12,Salem,New Jersey,34033,6130,188
+2021-07-12,Somerset,New Jersey,34035,30345,846
+2021-07-12,Sussex,New Jersey,34037,14159,307
+2021-07-12,Union,New Jersey,34039,71970,1984
+2021-07-12,Unknown,New Jersey,,832,0
+2021-07-12,Warren,New Jersey,34041,10066,238
+2021-07-12,Bernalillo,New Mexico,35001,59425,969
+2021-07-12,Catron,New Mexico,35003,97,5
+2021-07-12,Chaves,New Mexico,35005,9319,171
+2021-07-12,Cibola,New Mexico,35006,3572,126
+2021-07-12,Colfax,New Mexico,35007,951,47
+2021-07-12,Curry,New Mexico,35009,5355,86
+2021-07-12,De Baca,New Mexico,35011,178,2
+2021-07-12,DoÃ±a Ana,New Mexico,35013,25449,494
+2021-07-12,Eddy,New Mexico,35015,6976,141
+2021-07-12,Grant,New Mexico,35017,1762,41
+2021-07-12,Guadalupe,New Mexico,35019,729,13
+2021-07-12,Harding,New Mexico,35021,13,1
+2021-07-12,Hidalgo,New Mexico,35023,374,9
+2021-07-12,Lea,New Mexico,35025,9213,198
+2021-07-12,Lincoln,New Mexico,35027,1771,19
+2021-07-12,Los Alamos,New Mexico,35028,545,7
+2021-07-12,Luna,New Mexico,35029,3410,92
+2021-07-12,McKinley,New Mexico,35031,12433,479
+2021-07-12,Mora,New Mexico,35033,175,8
+2021-07-12,Otero,New Mexico,35035,5259,81
+2021-07-12,Quay,New Mexico,35037,539,11
+2021-07-12,Rio Arriba,New Mexico,35039,3834,80
+2021-07-12,Roosevelt,New Mexico,35041,2042,59
+2021-07-12,San Juan,New Mexico,35045,15790,499
+2021-07-12,San Miguel,New Mexico,35047,1417,17
+2021-07-12,Sandoval,New Mexico,35043,12338,242
+2021-07-12,Santa Fe,New Mexico,35049,10919,152
+2021-07-12,Sierra,New Mexico,35051,782,52
+2021-07-12,Socorro,New Mexico,35053,1333,61
+2021-07-12,Taos,New Mexico,35055,1762,53
+2021-07-12,Torrance,New Mexico,35057,1094,16
+2021-07-12,Union,New Mexico,35059,428,10
+2021-07-12,Unknown,New Mexico,,2,0
+2021-07-12,Valencia,New Mexico,35061,7265,119
+2021-07-12,Albany,New York,36001,24767,357
+2021-07-12,Allegany,New York,36003,3563,87
+2021-07-12,Broome,New York,36007,18682,367
+2021-07-12,Cattaraugus,New York,36009,5730,92
+2021-07-12,Cayuga,New York,36011,6362,92
+2021-07-12,Chautauqua,New York,36013,8971,145
+2021-07-12,Chemung,New York,36015,7799,137
+2021-07-12,Chenango,New York,36017,3519,77
+2021-07-12,Clinton,New York,36019,4858,33
+2021-07-12,Columbia,New York,36021,4085,104
+2021-07-12,Cortland,New York,36023,3936,64
+2021-07-12,Delaware,New York,36025,2398,39
+2021-07-12,Dutchess,New York,36027,29565,446
+2021-07-12,Erie,New York,36029,89806,1812
+2021-07-12,Essex,New York,36031,1607,26
+2021-07-12,Franklin,New York,36033,2566,12
+2021-07-12,Fulton,New York,36035,4437,93
+2021-07-12,Genesee,New York,36037,5448,124
+2021-07-12,Greene,New York,36039,3414,79
+2021-07-12,Hamilton,New York,36041,316,2
+2021-07-12,Herkimer,New York,36043,5219,110
+2021-07-12,Jefferson,New York,36045,6197,68
+2021-07-12,Lewis,New York,36049,2828,36
+2021-07-12,Livingston,New York,36051,4543,60
+2021-07-12,Madison,New York,36053,4577,89
+2021-07-12,Monroe,New York,36055,69326,1115
+2021-07-12,Montgomery,New York,36057,4261,128
+2021-07-12,Nassau,New York,36059,184514,3181
+2021-07-12,New York City,New York,,959266,33457
+2021-07-12,Niagara,New York,36063,20088,374
+2021-07-12,Oneida,New York,36065,22693,517
+2021-07-12,Onondaga,New York,36067,39148,679
+2021-07-12,Ontario,New York,36069,7431,93
+2021-07-12,Orange,New York,36071,48533,723
+2021-07-12,Orleans,New York,36073,3130,83
+2021-07-12,Oswego,New York,36075,7648,93
+2021-07-12,Otsego,New York,36077,3474,47
+2021-07-12,Putnam,New York,36079,10640,93
+2021-07-12,Rensselaer,New York,36083,11271,144
+2021-07-12,Rockland,New York,36087,47156,758
+2021-07-12,Saratoga,New York,36091,15433,168
+2021-07-12,Schenectady,New York,36093,13226,205
+2021-07-12,Schoharie,New York,36095,1710,18
+2021-07-12,Schuyler,New York,36097,1082,14
+2021-07-12,Seneca,New York,36099,2016,57
+2021-07-12,St. Lawrence,New York,36089,6683,97
+2021-07-12,Steuben,New York,36101,6982,146
+2021-07-12,Suffolk,New York,36103,201850,3407
+2021-07-12,Sullivan,New York,36105,6710,76
+2021-07-12,Tioga,New York,36107,3845,63
+2021-07-12,Tompkins,New York,36109,4369,52
+2021-07-12,Ulster,New York,36111,13967,257
+2021-07-12,Warren,New York,36113,3691,58
+2021-07-12,Washington,New York,36115,3170,55
+2021-07-12,Wayne,New York,36117,5805,72
+2021-07-12,Westchester,New York,36119,130113,2293
+2021-07-12,Wyoming,New York,36121,3603,53
+2021-07-12,Yates,New York,36123,1180,26
+2021-07-12,Alamance,North Carolina,37001,19106,288
+2021-07-12,Alexander,North Carolina,37003,4469,84
+2021-07-12,Alleghany,North Carolina,37005,1099,5
+2021-07-12,Anson,North Carolina,37007,2648,56
+2021-07-12,Ashe,North Carolina,37009,2258,45
+2021-07-12,Avery,North Carolina,37011,2166,21
+2021-07-12,Beaufort,North Carolina,37013,4810,103
+2021-07-12,Bertie,North Carolina,37015,1798,45
+2021-07-12,Bladen,North Carolina,37017,3547,50
+2021-07-12,Brunswick,North Carolina,37019,9436,156
+2021-07-12,Buncombe,North Carolina,37021,18186,337
+2021-07-12,Burke,North Carolina,37023,10173,164
+2021-07-12,Cabarrus,North Carolina,37025,22532,264
+2021-07-12,Caldwell,North Carolina,37027,9532,111
+2021-07-12,Camden,North Carolina,37029,696,6
+2021-07-12,Carteret,North Carolina,37031,5266,57
+2021-07-12,Caswell,North Carolina,37033,2208,30
+2021-07-12,Catawba,North Carolina,37035,19897,311
+2021-07-12,Chatham,North Carolina,37037,4789,89
+2021-07-12,Cherokee,North Carolina,37039,2656,38
+2021-07-12,Chowan,North Carolina,37041,1500,35
+2021-07-12,Clay,North Carolina,37043,909,18
+2021-07-12,Cleveland,North Carolina,37045,11787,228
+2021-07-12,Columbus,North Carolina,37047,6490,153
+2021-07-12,Craven,North Carolina,37049,9501,128
+2021-07-12,Cumberland,North Carolina,37051,30716,324
+2021-07-12,Currituck,North Carolina,37053,1589,16
+2021-07-12,Dare,North Carolina,37055,2228,10
+2021-07-12,Davidson,North Carolina,37057,17062,200
+2021-07-12,Davie,North Carolina,37059,4206,40
+2021-07-12,Duplin,North Carolina,37061,6418,142
+2021-07-12,Durham,North Carolina,37063,26147,234
+2021-07-12,Edgecombe,North Carolina,37065,5727,113
+2021-07-12,Forsyth,North Carolina,37067,37113,427
+2021-07-12,Franklin,North Carolina,37069,7045,54
+2021-07-12,Gaston,North Carolina,37071,27265,444
+2021-07-12,Gates,North Carolina,37073,750,13
+2021-07-12,Graham,North Carolina,37075,680,13
+2021-07-12,Granville,North Carolina,37077,6010,83
+2021-07-12,Greene,North Carolina,37079,2435,47
+2021-07-12,Guilford,North Carolina,37081,48859,726
+2021-07-12,Halifax,North Carolina,37083,5705,114
+2021-07-12,Harnett,North Carolina,37085,12159,182
+2021-07-12,Haywood,North Carolina,37087,4511,99
+2021-07-12,Henderson,North Carolina,37089,10347,165
+2021-07-12,Hertford,North Carolina,37091,2119,64
+2021-07-12,Hoke,North Carolina,37093,4956,56
+2021-07-12,Hyde,North Carolina,37095,670,9
+2021-07-12,Iredell,North Carolina,37097,19385,236
+2021-07-12,Jackson,North Carolina,37099,3661,56
+2021-07-12,Johnston,North Carolina,37101,22516,239
+2021-07-12,Jones,North Carolina,37103,903,28
+2021-07-12,Lee,North Carolina,37105,6193,83
+2021-07-12,Lenoir,North Carolina,37107,6294,126
+2021-07-12,Lincoln,North Carolina,37109,10334,86
+2021-07-12,Macon,North Carolina,37113,3177,41
+2021-07-12,Madison,North Carolina,37115,1611,43
+2021-07-12,Martin,North Carolina,37117,2338,46
+2021-07-12,McDowell,North Carolina,37111,5309,63
+2021-07-12,Mecklenburg,North Carolina,37119,115309,981
+2021-07-12,Mitchell,North Carolina,37121,1477,16
+2021-07-12,Montgomery,North Carolina,37123,3393,97
+2021-07-12,Moore,North Carolina,37125,9101,195
+2021-07-12,Nash,North Carolina,37127,11752,199
+2021-07-12,New Hanover,North Carolina,37129,19635,176
+2021-07-12,Northampton,North Carolina,37131,1900,61
+2021-07-12,Onslow,North Carolina,37133,18031,154
+2021-07-12,Orange,North Carolina,37135,8638,101
+2021-07-12,Pamlico,North Carolina,37137,1120,13
+2021-07-12,Pasquotank,North Carolina,37139,3461,86
+2021-07-12,Pender,North Carolina,37141,5587,69
+2021-07-12,Perquimans,North Carolina,37143,1034,11
+2021-07-12,Person,North Carolina,37145,3543,71
+2021-07-12,Pitt,North Carolina,37147,20655,96
+2021-07-12,Polk,North Carolina,37149,1507,31
+2021-07-12,Randolph,North Carolina,37151,15400,231
+2021-07-12,Richmond,North Carolina,37153,4892,98
+2021-07-12,Robeson,North Carolina,37155,17070,272
+2021-07-12,Rockingham,North Carolina,37157,8150,166
+2021-07-12,Rowan,North Carolina,37159,17362,313
+2021-07-12,Rutherford,North Carolina,37161,7474,218
+2021-07-12,Sampson,North Carolina,37163,8194,114
+2021-07-12,Scotland,North Carolina,37165,3932,88
+2021-07-12,Stanly,North Carolina,37167,7957,138
+2021-07-12,Stokes,North Carolina,37169,4248,81
+2021-07-12,Surry,North Carolina,37171,8455,170
+2021-07-12,Swain,North Carolina,37173,1212,18
+2021-07-12,Transylvania,North Carolina,37175,2397,33
+2021-07-12,Tyrrell,North Carolina,37177,327,6
+2021-07-12,Union,North Carolina,37179,25088,226
+2021-07-12,Vance,North Carolina,37181,5001,90
+2021-07-12,Wake,North Carolina,37183,90755,740
+2021-07-12,Warren,North Carolina,37185,1820,20
+2021-07-12,Washington,North Carolina,37187,1142,32
+2021-07-12,Watauga,North Carolina,37189,5027,33
+2021-07-12,Wayne,North Carolina,37191,11604,243
+2021-07-12,Wilkes,North Carolina,37193,6970,117
+2021-07-12,Wilson,North Carolina,37195,9980,181
+2021-07-12,Yadkin,North Carolina,37197,4148,55
+2021-07-12,Yancey,North Carolina,37199,1638,28
+2021-07-12,Adams,North Dakota,38001,271,3
+2021-07-12,Barnes,North Dakota,38003,1424,32
+2021-07-12,Benson,North Dakota,38005,1105,19
+2021-07-12,Billings,North Dakota,38007,55,0
+2021-07-12,Bottineau,North Dakota,38009,724,20
+2021-07-12,Bowman,North Dakota,38011,408,5
+2021-07-12,Burke,North Dakota,38013,250,3
+2021-07-12,Burleigh,North Dakota,38015,16045,196
+2021-07-12,Cass,North Dakota,38017,24807,211
+2021-07-12,Cavalier,North Dakota,38019,432,5
+2021-07-12,Dickey,North Dakota,38021,800,33
+2021-07-12,Divide,North Dakota,38023,187,2
+2021-07-12,Dunn,North Dakota,38025,404,7
+2021-07-12,Eddy,North Dakota,38027,470,6
+2021-07-12,Emmons,North Dakota,38029,441,13
+2021-07-12,Foster,North Dakota,38031,600,19
+2021-07-12,Golden Valley,North Dakota,38033,262,3
+2021-07-12,Grand Forks,North Dakota,38035,10724,79
+2021-07-12,Grant,North Dakota,38037,211,7
+2021-07-12,Griggs,North Dakota,38039,330,2
